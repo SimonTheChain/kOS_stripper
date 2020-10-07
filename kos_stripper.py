@@ -17,7 +17,7 @@ class Stripper(object):
     Manages kOS code operations
     """
     def __init__(self):
-        self.source_dir = "C:\\Users\simon\PycharmProjects\kOS"
+        self.source_dir = "C:\\Users\Smoky05\PycharmProjects\kOS"
         self.source_file = ""
         self.destination = "D:\games\steamapps\common\Kerbal Space Program\Ships\Script"
         self.results = ""
