@@ -19,7 +19,7 @@ class Stripper(object):
     def __init__(self):
         self.source_dir = "C:\\Users\Smoky05\PycharmProjects\kOS"
         self.source_file = ""
-        self.destination = "D:\games\steamapps\common\Kerbal Space Program\Ships\Script"
+        self.destination = "D:\games\Kerbal Space Program\Ships\Script"
         self.results = ""
 
     @property
